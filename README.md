@@ -31,4 +31,4 @@ ng serve -o
 
 
 ## About
-This repository contains the Individual Task for sprint 1. 
+This repository contains the Individual Task for sprint 1 excluding part c...since i started late..
